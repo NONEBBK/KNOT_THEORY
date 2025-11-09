@@ -98,7 +98,15 @@ This result was obtained through a systematic exploration of the SnapPy census o
 If you use this dataset or finding, please cite:
 > Fee, J. (2025). *Computational Knot Theory Explorations: Hyperbolic Volumes of Non-Alternating Knots*. GitHub repository: [NONEBBK/KNOT_THEORY](https://github.com/NONEBBK/KNOT_THEORY)
 
-For full formal results, see [RESULTS.md](./RESULTS.md)
+## Formal Results & Scripts
+
+📄 **Formal Results:**  
+See [RESULTS.md](./RESULTS.md) for the full computational findings, including the smallest-volume non-alternating knot discovery.
+
+💾 **Python Scripts:**  
+Download all scripts used in this study in one ZIP file:  
+[Download here](https://github.com/NONEBBK/KNOT_THEORY/archive/refs/heads/main.zip)
+
 
 ## Dependencies
 
