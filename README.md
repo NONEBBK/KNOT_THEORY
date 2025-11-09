@@ -98,6 +98,8 @@ This result was obtained through a systematic exploration of the SnapPy census o
 If you use this dataset or finding, please cite:
 > Fee, J. (2025). *Computational Knot Theory Explorations: Hyperbolic Volumes of Non-Alternating Knots*. GitHub repository: [NONEBBK/KNOT_THEORY](https://github.com/NONEBBK/KNOT_THEORY)
 
+For full formal results, see [RESULTS.md](./RESULTS.md)
+
 ## Dependencies
 
 -   [Python 3](https://www.python.org/)
